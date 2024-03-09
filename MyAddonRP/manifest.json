@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "My resource pack Add-On!",
+    "name": "My Resource Pack",
+    "uuid": "5ada23a8-3a92-4110-ae87-51febc07606a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "My First Add-On!",
+      "type": "resources",
+      "uuid": "445c5974-06c4-40af-8487-6eee886fa23c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

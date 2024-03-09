@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_brewing_mix": {
+    "description": {
+      "identifier": "thatchy:necrotic_bone"
+    },
+    "tags": [
+      "brewing_stand"
+    ],
+    "input": "minecraft:bone",
+    "reagent": "minecraft:obsidian",
+    "output": "thatchy:necrotic_bone"
+  }
+}

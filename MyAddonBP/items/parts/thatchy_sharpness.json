@@ -1,0 +1,18 @@
+{
+    "format_version": "1.17.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "thatchy:sharpness",
+            "category": "items"
+        },
+        "components": {
+            "minecraft:max_stack_size": 16,
+            "minecraft:icon": {
+                "texture": "thatchy:sharpness"
+            },
+            "minecraft:display_name": {
+                "value": "plus-Sharpness"
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "My behavior pack Add-On!",
+    "name": "My Behavior Pack",
+    "uuid": "e741e99e-3a68-42b1-874d-b6b80b834ae6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "My First Add-On!",
+      "type": "data",
+      "uuid": "f71353ac-7c1e-47d2-8a11-3d5a319ed6a0",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "5ada23a8-3a92-4110-ae87-51febc07606a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

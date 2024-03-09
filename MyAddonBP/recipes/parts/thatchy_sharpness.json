@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "thatchy:sharpness"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "input": "minecraft:quartz_block",
+    "output": "thatchy:sharpness"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "thatchy:emerald"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "input": "minecraft:emerald_block",
+    "output": "thatchy:emerald"
+  }
+}

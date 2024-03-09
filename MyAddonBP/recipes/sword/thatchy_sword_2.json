@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_brewing_mix": {
+        "description": {
+            "identifier": "thatchy:sword_2"
+        },
+        "tags": [
+            "brewing_stand"
+        ],
+        "input": "thatchy:sword_1",
+        "reagent": "thatchy:sharpness",
+        "output": "thatchy:sword_2"
+    }
+}

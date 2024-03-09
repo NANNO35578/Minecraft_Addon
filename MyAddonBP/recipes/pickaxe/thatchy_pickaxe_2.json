@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_brewing_mix": {
+    "description": {
+      "identifier": "thatchy:pickaxe_2"
+    },
+    "tags": [
+      "brewing_stand"
+    ],
+    "input": "thatchy:pickaxe_1",
+    "reagent": "thatchy:emerald",
+    "output": "thatchy:pickaxe_2"
+  }
+}

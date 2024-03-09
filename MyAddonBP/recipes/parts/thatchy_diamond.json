@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "thatchy:diamond"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "input": "minecraft:diamond_block",
+    "output": "thatchy:diamond"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "resource_pack_name": "Thatchy Resource Pack",
+  "texture_data": {
+    "thatchy:sword": {
+      "textures": "textures/items/sword/thatchy_sword"
+    },
+    "thatchy:pickaxe": {
+      "textures": "textures/items/sword/thatchy_pickaxe"
+    },
+    "thatchy:reinforcement": {
+      "textures": "textures/items/parts/thatchy_reinforcement"
+    },
+    "thatchy:base": {
+      "textures": "textures/items/parts/thatchy_base"
+    },
+    "thatchy:diamond": {
+      "textures": "textures/items/parts/thatchy_diamond"
+    },
+    "thatchy:emerald": {
+      "textures": "textures/items/parts/thatchy_emerald"
+    },
+    "thatchy:haste": {
+      "textures": "textures/items/parts/thatchy_haste"
+    },
+    "thatchy:netherite": {
+      "textures": "textures/items/parts/thatchy_netherite"
+    },
+    "thatchy:sharpness": {
+      "textures": "textures/items/parts/thatchy_sharpness"
+    },
+    "thatchy:unbreakable": {
+      "textures": "textures/items/parts/thatchy_unbreakable"
+    },
+    "thatchy:stick": {
+      "textures": "textures/items/sticks/thatchy_stick"
+    },
+    "thatchy:necrotic_bone": {
+      "textures": "textures/items/sticks/thatchy_necrotic_bone"
+    },
+    "thatchy:gold_bone": {
+      "textures": "textures/items/sticks/thatchy_gold_bone"
+    },
+    "thatchy:drown_bone": {
+      "textures": "textures/items/sticks/thatchy_drown_bone"
+    }
+  }
+}

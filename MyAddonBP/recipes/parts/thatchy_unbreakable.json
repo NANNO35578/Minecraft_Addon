@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "thatchy:unbreakable"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "input": "minecraft:ender_crystal",
+    "output": "thatchy:unbreakable"
+  }
+}
