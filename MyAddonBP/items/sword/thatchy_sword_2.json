@@ -1,9 +1,12 @@
 {
-    "format_version": "1.16.100",
+    "format_version": "1.20.50",
     "minecraft:item": {
         "description": {
-            "category": "equipment",
-            "identifier": "thatchy:sword_2"
+            "identifier": "thatchy:sword_2",
+            "menu_category": {
+                "category": "equipment",
+                "group": "itemGroup.name.sword"
+            }
         },
         "components": {
             "minecraft:icon": {
@@ -62,9 +65,14 @@
                     "event": "dmg"
                 }
             },
-            "tag:minecraft:is_sword": {},
+            "minecraft:tags": {
+                "tags": [
+                    "minecraft:transformable_items",
+                    "minecraft:is_sword"
+                ]
+            },
             "minecraft:display_name": {
-                "value": "§cSword"
+                "value": "§k§1F§2i§3r§4s§5t§r\n\n\n\n§1--§2--§3--§4--§5--§6--§7--§8--§9--\n\n§r§lWhat the §m§aFuck?\n\n§1--§2--§3--§4--§5--§6--§7--§8--§9--"
             }
         },
         "events": {

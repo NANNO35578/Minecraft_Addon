@@ -1,0 +1,15 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_smithing_transform": {
+    "description": {
+      "identifier": "thatchy_pickaxe_1:simith"
+    },
+    "tags": [
+      "smithing_table"
+    ],
+    "template": "thatchy:diamond",
+    "base": "thatchy:pickaxe",
+    "addition": "minecraft:netherite_ingot",
+    "result": "thatchy:pickaxe_1"
+  }
+}

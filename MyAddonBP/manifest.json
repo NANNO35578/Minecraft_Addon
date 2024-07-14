@@ -2,7 +2,7 @@
   "format_version": 2,
   "header": {
     "description": "My behavior pack Add-On!",
-    "name": "My Behavior Pack",
+    "name": "§k§1F§2i§3r§4s§5t§r Behavior Pack",
     "uuid": "e741e99e-3a68-42b1-874d-b6b80b834ae6",
     "version": [
       1,
@@ -17,9 +17,9 @@
   },
   "modules": [
     {
-      "description": "My First Add-On!",
+      "description": "My §k§1F§2i§3r§4s§5t§r Add-On Simith!",
       "type": "data",
-      "uuid": "f71353ac-7c1e-47d2-8a11-3d5a319ed6a0",
+      "uuid": "f71353ac-7c1e-47d2-8a11-3d5a319ed0a6",
       "version": [
         1,
         0,

@@ -11,7 +11,7 @@
                 "texture": "thatchy:gold_bone"
             },
             "minecraft:display_name": {
-                "value": "Gold bone"
+                "value": "§6Gold bone"
             }
         }
     }
