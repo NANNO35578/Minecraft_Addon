@@ -11,7 +11,7 @@
                 "texture": "thatchy:base"
             },
             "minecraft:display_name": {
-                "value": "Base"
+                "value": "§0Base"
             }
         }
     }
